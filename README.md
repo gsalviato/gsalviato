@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Salviato 👋
 
-**IT Student | Full Stach | Software Architecture & Clean Code Enthusiast**
+**IT Student | Full Stack | Software Architecture & Clean Code Enthusiast**
 
 ### 🧑🏻‍💻 About me 
 
