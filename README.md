@@ -27,8 +27,8 @@ I don't just write code; I design systems. I actively apply:
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsalviato&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsalviato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
