@@ -6,8 +6,6 @@
 
 I am a Full Stack Dev passionate about building scalable, maintainable, and efficient applications. Currently, I am deepening my studies in **Software Architecture** and **Clean Code** to ensure that the systems I build are not only functional but also highly robust and fluid.
 
-I strongly believe in writing code that is easy to read, test, and evolve. To achieve this, I strictly apply software engineering best practices and architectural principles in my daily workflow.
-
 ### 🛠️ Tech Stack & Engineering Practices
 
 * **Languages:** Python, TypeScript, C
