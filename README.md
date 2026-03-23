@@ -37,4 +37,4 @@ I don't just write code; I design systems. I actively apply:
 Feel free to reach out for collaborations or just to talk about clean architecture!
 
 * **Email:** [gabsalviato@gmail.com](mailto:gabsalviato@gmail.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin.com/in/gabriel-salviato](www.linkedin.com/in/gabriel-salviato)
