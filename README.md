@@ -26,14 +26,6 @@ I don't just write code; I design systems. I actively apply:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsalviato&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsalviato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Let's Connect
 Feel free to reach out for collaborations or just to talk about clean architecture!
 
